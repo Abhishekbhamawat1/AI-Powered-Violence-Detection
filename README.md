@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # SaaS Web App UI Design
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# New
+>>>>>>> 96b775c3a43ff25a426984be8277cd64d8aebb71
