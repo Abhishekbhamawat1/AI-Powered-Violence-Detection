@@ -1,15 +1,26 @@
-<<<<<<< HEAD
+# AI-Powered Violence Detection
 
-  # SaaS Web App UI Design
+## Overview
+This project is an AI-powered violence detection system that analyzes video streams and detects violent activities in real time. When violence is detected, the system automatically sends an alert through the Telegram API.
 
-  This is a code bundle for SaaS Web App UI Design. The original project is available at https://www.figma.com/design/XX4TF6hCcz92Hchl6WQ4uX/SaaS-Web-App-UI-Design.
+## Features
+- Real-time violence detection
+- AI-based video analysis
+- Live monitoring
+- Telegram alert notifications
+- Responsive web interface
 
-  ## Running the code
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
+- Java
+- Telegram Bot API
 
-  Run `npm i` to install the dependencies.
+## Installation
 
-  Run `npm run dev` to start the development server.
-  
-=======
-# New
->>>>>>> 96b775c3a43ff25a426984be8277cd64d8aebb71
+```bash
+npm install
+npm run dev
